@@ -1,2 +1,2 @@
-# Piquebois-Maps
+# Voisinage-Maps
 We want better maps.
